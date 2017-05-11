@@ -1,5 +1,5 @@
 <?php
-	define('FTTB_HOST_SEARCH_URL', 'http://fttb.mts-nn.ru/search.php?s_added=0&s_ip=&s_sh=&s_clu=&s_type=0&s_sts=0&s_status_group=0&s_city=0&s_ats=-&s_rng=-&s_cmt=&s_num=0&s_cmp=-1&s_cmp_num=&s_date=0&s_date_type=0&db=&de=&s_flat_sel=0&s_cmp_flat=-1&s_flat_num=&s_date_cust=0&s_date_cust_type=0&dbc=&dec=&s_sw_purp=0&s_sw_purp_type=-1&s_sw_vlans=0&s_sales_supp=0&s_sw_adv_info=0&s_sw_kip=0&s_sw_serv=0&sort%5B1%5D=0&sort%5B2%5D=0&sort%5B3%5D=0&sort%5B4%5D=0&sort%5B5%5D=0&sort%5B6%5D=0&sort%5B7%5D=0&sort%5B8%5D=0&sort%5B9%5D=0&sort%5B10%5D=0&sort%5B11%5D=0&sort%5B12%5D=0&sort%5B13%5D=0&sort%5B14%5D=0&sort%5B15%5D=0&sort%5B16%5D=0&sort%5B17%5D=0&sort%5B18%5D=0&sort%5B19%5D=0&s_dn=');
+	include('inc/vars.php');
 	define('IMPORT_DIR', './import/');
 	define('SKIP', 'skip');
 	define('HIGH_ERRORS', 1000);
